@@ -16,7 +16,7 @@ Programming Function Description:
 
 1. def isSafe() - 
   >It takes matrix,a number,x and y coordinate of an empty postion as an arguments.
-  >It decides whether the digit in question satisfy all the codition or not, if it does then it is placed in the matrix at a given position.
+  >It decides whether the digit in question satisfy all the condition or not, if it does then it is placed in the matrix at a given position.
   >Return true if all conditions are met else will return false.
   
 2. def getPos() - 
