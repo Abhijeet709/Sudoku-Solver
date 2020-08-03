@@ -2,6 +2,7 @@
 #Each number is separated space
 #use zero as an input for blank position
 # Ex = 1 2 4 0 0 0 5 7 0
+ls=[]
 for i in range(9):
     ls.append(list(map(int,input().split())))
 
